@@ -1,0 +1,28 @@
+#con{
+    margin: auto;
+    border:5px solid lightblue;
+    font-size: 30px;
+    padding:10px;
+    text-align: center;
+    height:260px;
+    width:600px;
+    background-color: whitesmoke;
+}
+p{
+    color: black;
+}
+#userinput{
+    width:160px;
+    height:23px;
+}
+#output{
+    color: red;
+}
+img{
+    
+    width: 400px;
+    height: 250px;
+    position: relative;
+    align-items: center;
+    margin-left: 24%;
+}
